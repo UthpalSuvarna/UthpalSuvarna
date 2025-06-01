@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <img src="github-header.png" alt="Header Image- Uthpal Suvarna" width="50%" /><br><br>
 
@@ -14,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
+-->
 
 ## Skills
 **Languages**: C, C++, JavaScript, SQL  
