@@ -7,9 +7,6 @@
 ---
 
 ## Skills
-
-- **Technical Skills :**  
-  **Programming Languages**: C, C++, JavaScript  
-  **Frontend Web Development**: HTML/CSS, React, Tailwind CSS  
-  **Backend Web Development**: Node.js, Express.js, MongoDB, Firebase  
-  **Version Control**: Git(Github)
+**Languages**: C, C++, JavaScript, SQL  
+**Frameworks/Technologies**: React, Tailwind CSS, Next.js, Node.js, PostgreSQL  
+**Coursework**: Data Structures and Algorithms, Database Systems, OOPs  
